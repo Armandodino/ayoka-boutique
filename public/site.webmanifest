@@ -1,0 +1,1 @@
+{"name": "Ayoka Boutique", "short_name": "Ayoka", "lang": "fr-CI", "start_url": "/", "display": "browser", "theme_color": "#193e2b", "background_color": "#ffffff", "icons": [{"src": "/ayoka-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"}, {"src": "/ayoka-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]}

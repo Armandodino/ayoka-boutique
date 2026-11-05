@@ -1,0 +1,3 @@
+import {z} from 'zod';
+import {stages} from './crm';
+export const contactSchema=z.object({id:z.string().min(1).max(80).regex(/^[\w-]+$/),name:z.string().trim().min(2).max(100),phone:z.string().trim().max(20).refine(v=>!v||/^\d{8,15}$/.test(v),'Utilise 8 à 15 chiffres pour le téléphone.'),email:z.union([z.literal(''),z.string().email().max(160)]),city:z.string().trim().max(100),status:z.enum(stages),source:z.enum(['WhatsApp','Instagram','Site','Boutique','Autre']),tags:z.array(z.string().trim().min(1).max(40)).max(20),notes:z.string().trim().max(4000),nextFollowUp:z.string().refine(v=>!v||/^\d{4}-\d{2}-\d{2}$/.test(v),'Date non valide'),createdAt:z.string().datetime(),updatedAt:z.string().datetime()}).refine(v=>v.phone||v.email,'Ajoute un téléphone ou un email.');

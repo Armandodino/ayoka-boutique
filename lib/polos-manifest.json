@@ -1,0 +1,272 @@
+[
+  {
+    "file": "P01_1_Blanc.png",
+    "sha256": "ba5b68fd8650f201042f2de1d9532da7ca18ad1b873b62795097eb9622dea55c",
+    "product": "P01",
+    "color": "Blanc",
+    "image": "/assets/ayoka-ba5b68fd8650-1536.webp",
+    "originalBytes": 2228544,
+    "responsiveBytes": 121998
+  },
+  {
+    "file": "P01_2_Marine.png",
+    "sha256": "4e3827febb09e1ac6d5ebc11fba431d48fbe41b3afff607727f4593d4f02c6df",
+    "product": "P01",
+    "color": "Marine",
+    "image": "/assets/ayoka-4e3827febb09-1536.webp",
+    "originalBytes": 2503977,
+    "responsiveBytes": 173652
+  },
+  {
+    "file": "P01_3_Vert_foret.png",
+    "sha256": "ffca2a1a8597f2f246497c643f6e94f8959546c0f7578be008b200ed7e1cd49f",
+    "product": "P01",
+    "color": "Vert forêt",
+    "image": "/assets/ayoka-ffca2a1a8597-1536.webp",
+    "originalBytes": 2606847,
+    "responsiveBytes": 191676
+  },
+  {
+    "file": "P02_1_Bordeaux.png",
+    "sha256": "d8786dc93528001b2bd982d1137e438ed7eb84dec6666465be5be0b838e9ef14",
+    "product": "P02",
+    "color": "Bordeaux",
+    "image": "/assets/ayoka-d8786dc93528-1536.webp",
+    "originalBytes": 2488392,
+    "responsiveBytes": 163462
+  },
+  {
+    "file": "P02_2_Cobalt.png",
+    "sha256": "b01609bea49b64199f82a38021b594ecb521c55650279e94fc811c9b9f214c48",
+    "product": "P02",
+    "color": "Cobalt",
+    "image": "/assets/ayoka-b01609bea49b-1536.webp",
+    "originalBytes": 2232002,
+    "responsiveBytes": 167244
+  },
+  {
+    "file": "P02_3_Chocolat.png",
+    "sha256": "facfc724ca7ee5a786ca22938c5470b09ca66262bbef1ca30ea7acd7f39288ce",
+    "product": "P02",
+    "color": "Chocolat",
+    "image": "/assets/ayoka-facfc724ca7e-1536.webp",
+    "originalBytes": 2224251,
+    "responsiveBytes": 147516
+  },
+  {
+    "file": "P03_1_Marine_ivoire.png",
+    "sha256": "ee6631e2a6c440d04b0a75dda7861fe6f84a547c5799ea390c554c1a5e1a8096",
+    "product": "P03",
+    "color": "Marine / ivoire",
+    "image": "/assets/ayoka-ee6631e2a6c4-1536.webp",
+    "originalBytes": 2438695,
+    "responsiveBytes": 182690
+  },
+  {
+    "file": "P03_2_Foret_creme.png",
+    "sha256": "5b444debdae3ca5c241e7f948afa43ad92032972af57f14f9e07e2f4f6924af2",
+    "product": "P03",
+    "color": "Forêt / crème",
+    "image": "/assets/ayoka-5b444debdae3-1536.webp",
+    "originalBytes": 2202158,
+    "responsiveBytes": 156682
+  },
+  {
+    "file": "P03_3_Bordeaux_sable.png",
+    "sha256": "e7162cca7ea3b8e1a9fcac86f5a9b7e1ed6bb024ea37d1809de92d1debc626e7",
+    "product": "P03",
+    "color": "Bordeaux / sable",
+    "image": "/assets/ayoka-e7162cca7ea3-1536.webp",
+    "originalBytes": 2191097,
+    "responsiveBytes": 160758
+  },
+  {
+    "file": "P04_1_Ivoire_vert.png",
+    "sha256": "1ae898aa3f1308e9ed8912d599a4a23417f8776d37ae74cc9cd73f16bbb3dda8",
+    "product": "P04",
+    "color": "Ivoire / vert",
+    "image": "/assets/ayoka-1ae898aa3f13-1536.webp",
+    "originalBytes": 2219967,
+    "responsiveBytes": 138882
+  },
+  {
+    "file": "P04_2_Marine_gris.png",
+    "sha256": "74b731b2213a1c106ecf0f2ab5669c5986417d8e77564a40edca2605c5dd166d",
+    "product": "P04",
+    "color": "Marine / gris",
+    "image": "/assets/ayoka-74b731b2213a-1536.webp",
+    "originalBytes": 2475388,
+    "responsiveBytes": 156612
+  },
+  {
+    "file": "P04_3_Sable_rouille.png",
+    "sha256": "aec6ed5b78f24f3627c79badbfccfd765a5becf76ecaa1cda3ef5fee722d0ff7",
+    "product": "P04",
+    "color": "Sable / rouille",
+    "image": "/assets/ayoka-aec6ed5b78f2-1536.webp",
+    "originalBytes": 2527962,
+    "responsiveBytes": 168846
+  },
+  {
+    "file": "P05_1_Ecru.png",
+    "sha256": "0b79fd27efa541ec55218f2e1c12a61cba5e70c4d01debe5106b5f6e3520f5c5",
+    "product": "P05",
+    "color": "Écru",
+    "image": "/assets/ayoka-0b79fd27efa5-1536.webp",
+    "originalBytes": 2640805,
+    "responsiveBytes": 260326
+  },
+  {
+    "file": "P05_2_Lavande.png",
+    "sha256": "f46f038bab72230a242b46512a142b5026565f953eb9a44f4d787cf7b84815c1",
+    "product": "P05",
+    "color": "Lavande",
+    "image": "/assets/ayoka-f46f038bab72-1536.webp",
+    "originalBytes": 2782285,
+    "responsiveBytes": 329254
+  },
+  {
+    "file": "P05_3_Petrole.png",
+    "sha256": "83785bd6655ebde752a3756fb240c05ca6991c33e7edfbbfd1c0ab4bf931ddcd",
+    "product": "P05",
+    "color": "Pétrole",
+    "image": "/assets/ayoka-83785bd6655e-1536.webp",
+    "originalBytes": 2516886,
+    "responsiveBytes": 331448
+  },
+  {
+    "file": "P06_1_Anthracite_orange.png",
+    "sha256": "dbfe99ca97a132b5a8e43be3bd6dd38bc9640d281feb15d4e34ceae7a140c79e",
+    "product": "P06",
+    "color": "Anthracite / orange",
+    "image": "/assets/ayoka-dbfe99ca97a1-1536.webp",
+    "originalBytes": 2385248,
+    "responsiveBytes": 161852
+  },
+  {
+    "file": "P06_2_Vert_ivoire.png",
+    "sha256": "43a6bcb141766622a156dfb57c3eef6549fe0b12d141562cb5f0a7fc35a0ee50",
+    "product": "P06",
+    "color": "Vert / ivoire",
+    "image": "/assets/ayoka-43a6bcb14176-1536.webp",
+    "originalBytes": 2310545,
+    "responsiveBytes": 148894
+  },
+  {
+    "file": "P06_3_Blanc_marine.png",
+    "sha256": "6c2fb6219afb56dafe6f4b53fc39cea587278ba0dd6e08033374480af5f93ec2",
+    "product": "P06",
+    "color": "Blanc / marine",
+    "image": "/assets/ayoka-6c2fb6219afb-1536.webp",
+    "originalBytes": 2324842,
+    "responsiveBytes": 137330
+  },
+  {
+    "file": "P07_1_Bleu_glacier.png",
+    "sha256": "af08c65c0f006009098df07d45a5f0e6b8adbe0091407b84d87b80012da390c8",
+    "product": "P07",
+    "color": "Bleu glacier",
+    "image": "/assets/ayoka-af08c65c0f00-1536.webp",
+    "originalBytes": 2399538,
+    "responsiveBytes": 176448
+  },
+  {
+    "file": "P07_2_Noir_orange.png",
+    "sha256": "76d334cc841ec6a04b3f2540b9234b421db78b7a6b31506325a0d81c725fd3c3",
+    "product": "P07",
+    "color": "Noir / orange",
+    "image": "/assets/ayoka-76d334cc841e-1536.webp",
+    "originalBytes": 2213177,
+    "responsiveBytes": 152974
+  },
+  {
+    "file": "P07_3_Sauge.png",
+    "sha256": "87ea8ca9230921dc5e7a18d9334ab786a8827f706c2ca0ed193d8e1bb4069708",
+    "product": "P07",
+    "color": "Sauge",
+    "image": "/assets/ayoka-87ea8ca92309-1536.webp",
+    "originalBytes": 2272998,
+    "responsiveBytes": 187514
+  },
+  {
+    "file": "P08_1_Camel.png",
+    "sha256": "2be7cb4eac4577cc1df0d8fafecda796fdcdf41ff6d3cfbe5e3a32d99ef3889f",
+    "product": "P08",
+    "color": "Camel",
+    "image": "/assets/ayoka-2be7cb4eac45-1536.webp",
+    "originalBytes": 2460464,
+    "responsiveBytes": 175738
+  },
+  {
+    "file": "P08_2_Bleu_nuit.png",
+    "sha256": "2c2e2abd486ac72bf9387dcd3070f4a98431153535aa9fdb28d7b5e1ecebb635",
+    "product": "P08",
+    "color": "Bleu nuit",
+    "image": "/assets/ayoka-2c2e2abd486a-1536.webp",
+    "originalBytes": 2307775,
+    "responsiveBytes": 111558
+  },
+  {
+    "file": "P08_3_Prune.png",
+    "sha256": "ed7e0320f882c1f9cf2eb46d76b73e58309b8381cd2d01cc37efe5555bbdbab8",
+    "product": "P08",
+    "color": "Prune",
+    "image": "/assets/ayoka-ed7e0320f882-1536.webp",
+    "originalBytes": 2273951,
+    "responsiveBytes": 139182
+  },
+  {
+    "file": "P09_1_Marine_raye.png",
+    "sha256": "0f13c0fedfdd506f15c209596f68d667606480b439bb3c146a596a476b54b54e",
+    "product": "P09",
+    "color": "Marine rayé",
+    "image": "/assets/ayoka-0f13c0fedfdd-1536.webp",
+    "originalBytes": 2651241,
+    "responsiveBytes": 295650
+  },
+  {
+    "file": "P09_2_Vert_raye.png",
+    "sha256": "907587a7daba1477f7964e5788f97542419d84787410438b3903fd1f6082293e",
+    "product": "P09",
+    "color": "Vert rayé",
+    "image": "/assets/ayoka-907587a7daba-1536.webp",
+    "originalBytes": 2126353,
+    "responsiveBytes": 236802
+  },
+  {
+    "file": "P09_3_Corail_raye.png",
+    "sha256": "ec02992b08e462841315f4052bc1282dc7e0298be2cd7f184fb38fd4807d8324",
+    "product": "P09",
+    "color": "Corail rayé",
+    "image": "/assets/ayoka-ec02992b08e4-1536.webp",
+    "originalBytes": 2616550,
+    "responsiveBytes": 321998
+  },
+  {
+    "file": "P10_1_Noir_heritage.png",
+    "sha256": "2000e38a7a805f66c9876a6d4f344862d34828e46397f7c68f72f8d9225fbbae",
+    "product": "P10",
+    "color": "Noir",
+    "image": "/assets/ayoka-2000e38a7a80-1536.webp",
+    "originalBytes": 2228900,
+    "responsiveBytes": 131682
+  },
+  {
+    "file": "P10_2_Ivoire_heritage.png",
+    "sha256": "afcd772fd4c988552d8a11078319720b3678c2871550c380cddc62d3b9f4e612",
+    "product": "P10",
+    "color": "Ivoire",
+    "image": "/assets/ayoka-afcd772fd4c9-1536.webp",
+    "originalBytes": 2350355,
+    "responsiveBytes": 143254
+  },
+  {
+    "file": "P10_3_Marine_heritage.png",
+    "sha256": "25b6b044579675c5139f9d5cc820a09fb8629fbfc79f2a85d3c00799135cc312",
+    "product": "P10",
+    "color": "Marine",
+    "image": "/assets/ayoka-25b6b0445796-1536.webp",
+    "originalBytes": 2272370,
+    "responsiveBytes": 161916
+  }
+]
